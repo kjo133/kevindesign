@@ -37,9 +37,7 @@ a:hover {
 }
 /* additional sections */
 #home {
-  font-family: 'Trajan Pro Bold';
-  background: url(images/debutBW.jpg) no-repeat center center fixed;
-  display: table;
+  background: url(images/designHome.png) no-repeat center center fixed;
   height: 100%;
   position: relative;
   width: 100%;
