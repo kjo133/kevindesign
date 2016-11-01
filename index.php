@@ -17,6 +17,7 @@
 
     <!-- Custom CSS -->
     <link href="css/landing-page.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="kevstyles.css">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -51,37 +52,23 @@
         <!-- /.container -->
     </nav>
 
-    <!-- Header -->
+    <!-- Home -->
     <a name="about"></a>
-    <div class="intro-header">
-        <div class="container">
+    <div class="home"></div>
+    <!-- /.home -->
 
+
+        <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="intro-message">
-                        <h1>Landing Page</h1>
-                        <h3>A Template by Start Bootstrap</h3>
-                        <hr class="intro-divider">
-                      <!--   <ul class="list-inline intro-social-buttons">
-                            <li>
-                                <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                            </li>
-                            <li>
-                                <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                            </li>
-                            <li>
-                                <a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
-                            </li>
-                        </ul> -->
-                    </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Kevin Olson</h2>
+                    <hr class="light">
+                    <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
+                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
                 </div>
             </div>
-
         </div>
-        <!-- /.container -->
 
-    </div>
-    <!-- /.intro-header -->
 
     <!-- Page Content -->
 
