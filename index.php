@@ -17,7 +17,7 @@
 
     <!-- Custom CSS -->
     <link href="css/landing-page.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="kevstyles.css">
+    <link rel="stylesheet" href="kevstyles.css">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -43,7 +43,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#about">About</a></li>
-                    <li><a href="#services">Work</a></li>
+                    <li><a href="#work">Work</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
             </div>
@@ -63,7 +63,11 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Kevin Olson</h2>
                     <hr class="light">
-                    <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
+                    <!-- <p class="text-faded"> -->
+                    <p class="aboutText">
+                    I graduated from Virginia Tech in 2015, majoring in Computer Science.  Graphic design and programming have always interested me, so I started to DESIGN and DEVELOP simple websites in my free time.  I am also passionate about music.  You can follow my music life
+                    <a href="http://www.kevinjolson.com">HERE</a>
+                    </p>
                     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
                 </div>
             </div>
@@ -72,19 +76,23 @@
 
     <!-- Page Content -->
 
-  <a  name="services"></a>
-    <div class="content-section-a">
+  <a  name="work"></a>
+    <div class="content-section-a work">
 
-        <div class="container">
+        <div class="container text-center">
+        <h1 class="section-heading">My Work</h1>
             <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">Death to the Stock Photo:<br>Special Thanks</h2>
-                    <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
+                <div class="col-md-4">
+                    <h2>Maaddix</h2>
+                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
                 </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/ipad.png" alt="">
+                <div class="col-md-4">
+                    <h2>Kevin Olson Music</h2>
+                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                </div>
+              <div class="col-md-4">
+                    <h2>ELC Preschool</h2>
+                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
                 </div>
             </div>
 

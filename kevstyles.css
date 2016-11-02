@@ -49,7 +49,14 @@ a:hover {
 }
 
 
+.aboutText{
+  font-size: 25px;
+}
 
+.work{
+  background-color: #305ba0;
+  color: white;
+}
 
 /* additional sections */
 #home {
