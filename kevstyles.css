@@ -44,10 +44,16 @@ a:hover {
     height: 100%; width: 100%;
     text-align: center;
     color: #f8f8f8;
-    background: url(images/designHome.png) no-repeat center center;
+    background: url(images/designHome2.png) no-repeat center center;
     background-size: cover;
 }
 
+.introButton{
+  height: 400px; width: 200px;
+  border: solid blue 3px;
+  padding-top: 50px;
+  margin: 0 auto;
+}
 
 .aboutText{
   font-size: 25px;
@@ -59,7 +65,7 @@ a:hover {
 }
 
 /* additional sections */
-#home {
+/*#home {
   background: url(images/designHome.png) no-repeat center center fixed;
   height: 100%;
   position: relative;
@@ -69,7 +75,7 @@ a:hover {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
+}*/
 #mainTitle {
   background-color: rgba(0, 0, 0, 0.2);
 }
