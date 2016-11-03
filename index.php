@@ -17,7 +17,7 @@
 
     <!-- Custom CSS -->
     <link href="css/landing-page.css" rel="stylesheet">
-    <link rel="stylesheet" href="kevstyles.css">
+    <link rel="stylesheet" href="kevindesign.css">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -53,15 +53,16 @@
     </nav>
 
     <!-- Home -->
-    <a name="about"></a>
+
     <div class="home">
 
             
               
                     <!-- <div class="intro-message"> -->
                     <div class="introButton">
-                   
-                    <a href="#about" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
+<!--                     <h2>Kevin Olson</h2> -->
+                   <h3 id="title">Designer, Developer, Musician</h1>
+                    <a href="#about" class="page-scroll btn btn-default btn-xl sr-button">About Me!</a>
                      <!--    <h1>Landing Page</h1>
                         <h3>A Template by Start Bootstrap</h3>
                         <hr class="intro-divider">
@@ -85,7 +86,8 @@
     </div>
     <!-- /.home -->
 
-
+    <a name="about"></a>
+        <div class="content-section-a">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -96,11 +98,10 @@
                     I graduated from Virginia Tech in 2015, majoring in Computer Science.  Graphic design and programming have always interested me, so I started to DESIGN and DEVELOP simple websites in my free time.  I am also passionate about music.  You can follow my music life
                     <a href="http://www.kevinjolson.com">HERE</a>
                     </p>
-                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
                 </div>
             </div>
         </div>
-
+        </div>
 
     <!-- Page Content -->
 
@@ -116,11 +117,11 @@
                 </div>
                 <div class="col-md-4">
                     <h2>Kevin Olson Music</h2>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                    <p>Designed and developed a simple website for my music career.  Deside on a single page, parallax desgin.  Site features upcoming events, recorded music, live videos, and more.  </p>
                 </div>
               <div class="col-md-4">
                     <h2>ELC Preschool</h2>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                    <p>My church wanted to make their preschool's website responsive.  Designs were given to me so I just had to develop it. </p>
                 </div>
             </div>
 
@@ -138,8 +139,8 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">3D Device Mockups<br>by PSDCovers</h2>
-                    <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
+                    <h2 class="section-heading">Kevin Olson Music</h2>
+                    <p class="lead">Designed and developed a simple website for my music career.  Deside on a single page, parallax desgin.  Site features upcoming events, recorded music, live videos, and more.</p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                     <img class="img-responsive" src="img/dog.png" alt="">
