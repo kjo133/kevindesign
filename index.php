@@ -131,6 +131,25 @@
     </div>
     <!-- /.content-section-a -->
 
+    <div class ="content-section-a">
+        <div class="container">
+            <ul id="rb-grid" class="rb-grid clearfix">
+                <li class="icon-clima-1 rb-span-2">
+                    <h3>Kevin Olson Music</h3>
+                    <div class="rb-overlay">
+                        <span class="rb-close">close</span>
+                        
+                    </div>
+
+                </li>
+                <li clas="icon-clima-2">
+                    
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
     <div class="content-section-b">
 
         <div class="container">
